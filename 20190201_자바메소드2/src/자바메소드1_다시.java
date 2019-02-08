@@ -1,3 +1,5 @@
+//Hello Github
+
 import java.util.Scanner;
 public class 자바메소드1_다시 {
 
